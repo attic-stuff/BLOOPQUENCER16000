@@ -10,7 +10,7 @@ hello! bloopquencer16000 is an instrument for making crunchy, sequenced sound ef
 
 ## how 2 get it:
 
-go  to the  releases and  download the  zip file with the executable in it. this is windows only, sorry bubba.
+go  to the  [releases](https://github.com/attic-stuff/BLOOPQUENCER16000/releases/tag/v1.0) and  download the  zip file with the executable in it. this is windows only, sorry bubba.
 
 if you are on a different operating system you are more than welcome to download the yyz file, open it up in gamemaker (2024.4+), and build it for whatever flavor you like.
 
