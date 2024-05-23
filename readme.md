@@ -2,6 +2,12 @@
 
 hello! bloopquencer16000 is an instrument for making crunchy, sequenced sound effects for games and other cool stuffs. i made it because i need to make some 1983 sounds for a game im developing, and it was heavily inspired by [bleeper](https://pixwlk.itch.io/bleeper), which was made by [cedric stoquer](https://pixwlk.itch.io). i've put it up on github so's you can download it and play with it, make some sounds with it, and annoy your mom with it.
 
+
+
+![](https://github.com/attic-stuff/BLOOPQUENCER16000/blob/master/screenshot.png)
+
+
+
 ## how 2 get it:
 
 go  to the  releases and  download the  zip file with the executable in it. this is windows only, sorry bubba.
@@ -31,3 +37,7 @@ you **CAN NOT** do the following:
 
 - rebuild this project and sell it or redistribute it.
 - reuse any of the artwork files in the codebase of this project. you may use the code, however, for whatever you want. just not the sprites or fonts.
+
+## example sounds
+
+there are some example sounds you can listen to by loading them into bloopquencer!
