@@ -26,7 +26,7 @@ function remap(value, left1, right1, left2, right2) {
  * @returns {Id.Buffer}
  */
 function bloopquencer_record_bloop(sample_rate, frequency, gain, length, waveform) {
-	static total_gain = 32747;
+	static total_gain = 32767;
 	var period = ceil(sample_rate / frequency);
 	var cycles = floor(period * frequency * length * 2);
 	var volume = gain * total_gain;
@@ -54,7 +54,7 @@ function bloopquencer_record_bloop(sample_rate, frequency, gain, length, wavefor
  * @returns {Id.Buffer}
  */
 function bloopquencer_record_noise(sample_rate, frequency, gain, length) {
-	static total_gain = 32747;
+	static total_gain = 32767;
 	var period = ceil(sample_rate / frequency);
 	var cycles = floor(period * frequency * length * 2);
 	var volume = gain * total_gain;

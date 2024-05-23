@@ -16,8 +16,8 @@ if (position_meeting(mouse_x, mouse_y, id) == true) {
 		value = lerp(1, 0, (level - minimum) / (maximum - minimum));
 		update = true;
 	}
-	if (right_mash == true) {
-		value = 0.5;	
+	if (right_tap == true) {
+		value = remap(16000, low, high, 0, 1);
 		update = true;
 	}
 }

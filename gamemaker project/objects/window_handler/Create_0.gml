@@ -5,3 +5,4 @@ display_set_gui_size(room_width, room_height);
 window_set_showborder(false);
 window_center();
 instance_destroy();
+
